@@ -1,0 +1,95 @@
+Coursera - Getting and Cleaning Data
+Course Project
+July 27: 2014
+
+Code Book
+Listing for columns in the outputData.csv dataset.
+
+RowNumber: Ascending number to uniquely identify each row
+Subject: A number to identify each test subject
+Label: The activity that was measured (1-WALKING : 
+2-WALKING_UPSTAIRS
+ : 3-WALKING_DOWNSTAIRS
+ : 4-SITTING : 
+5-STANDING : 
+6-LAYING
+)
+BodyAccelerationTimeXAxisMean: Average of Body Acceleration Time on the X-Axis Mean
+BodyAccelerationTimeYAxisMean: Average of Body Acceleration Time on the Y-Axis Mean
+BodyAccelerationTimeZAxisMean: Average of Body Acceleration Time on the Z-Axis Mean
+GravityAccelerationTimeXAxisMean: Average of Gravity Acceleration Time on the X-Axis Mean
+GravityAccelerationTimeYAxisMean: Average of Gravity Acceleration Time on the Y-Axis Mean
+GravityAccelerationTimeZAxisMean: Average of Gravity Acceleration Time on the Z-Axis Mean
+BodyAccelerationTimeJerkXAxisMean: Average of Body Acceleration Time Jerk on the X-Axis Mean
+BodyAccelerationTimeJerkYAxisMean: Average of Body Acceleration Time Jerk on the Y-Axis Mean
+BodyAccelerationTimeJerkZAxisMean: Average of Body Acceleration Time Jerk on the Z-Axis Mean
+BodyAngularVelocityTimeXAxisMean: Average of Body AngularVelocity Time on the X-Axis Mean
+BodyAngularVelocityTimeYAxisMean: Average of Body Angular Velocity Time on the Y-Axis Mean
+BodyAngularVelocityTimeZAxisMean: Average of Body Angular Velocity Time on the Z-Axis Mean
+BodyAngularVelocityTimeJerkXAxisMean: Average of Body Angular Velocity Time Jerk on the X-Axis Mean
+BodyAngularVelocityTimeJerkYAxisMean: Average of Body Angular Velocity Time Jerk on the Y-Axis Mean
+BodyAngularVelocityTimeJerkZAxisMean: Average of Body Angular Velocity Time Jerk on the Z-Axis Mean
+BodyAccelerationTimeMagMean: Average of Body Acceleration Time Magnitude Mean
+GravityAccelerationTimeMagMean: Average of Gravity Acceleration Time Magnitude Mean
+BodyAccelerationTimeJerkMagMean: Average of Body Acceleration Time Jerk Magnitude Mean
+BodyAngularVelocityTimeMagMean: Average of Body Angular Velocity Time Magnitude Mean
+BodyAngularVelocityTimeJerkMagMean: Average of Body Angular Velocity Time Jerk Mag Mean
+BodyAccelerationFrequencyXAxisMean: Average of Body Acceleration Frequency on the X-Axis Mean
+BodyAccelerationFrequencyYAxisMean: Average of Body Acceleration Frequency on the Y-Axis Mean
+BodyAccelerationFrequencyZAxisMean: Average of Body Acceleration Frequency on the Z-Axis Mean
+BodyAccelerationFrequencyXAxisMeanFrequency: Average of Body Acceleration Frequency on the X-Axis Mean Frequency
+BodyAccelerationFrequencyYAxisMeanFrequency: Average of Body Acceleration Frequency on the Y-Axis Mean Frequency
+BodyAccelerationFrequencyZAxisMeanFrequency: Average of Body Acceleration Frequency on the Z-Axis Mean Frequency
+BodyAccelerationFrequencyJerkXAxisMean: Average of Body Acceleration Frequency Jerk on the X-Axis Mean
+BodyAccelerationFrequencyJerkYAxisMean: Average of Body Acceleration Frequency Jerk on the Y-Axis Mean
+BodyAccelerationFrequencyJerkZAxisMean: Average of Body Acceleration Frequency Jerk on the Z-Axis Mean
+BodyAccelerationFrequencyJerkXAxisMeanFrequency: Average of Body Acceleration Frequency Jerk on the X-Axis Mean Frequency
+BodyAccelerationFrequencyJerkYAxisMeanFrequency: Average of Body Acceleration Frequency Jerk on the Y-Axis Mean Frequency
+BodyAccelerationFrequencyJerkZAxisMeanFrequency: Average of Body Acceleration Frequency Jerk on the Z-Axis Mean Frequency
+BodyAngularVelocityFrequencyXAxisMean: Average of Body Angular Velocity Frequency on the X-Axis Mean
+BodyAngularVelocityFrequencyYAxisMean: Average of Body Angular Velocity Frequency on the Y-Axis Mean
+BodyAngularVelocityFrequencyZAxisMean: Average of Body Angular Velocity Frequency on the Z-Axis Mean
+BodyAngularVelocityFrequencyXAxisMeanFrequency: Average of Body Angular Velocity Frequency on the X-Axis Mean Frequency
+BodyAngularVelocityFrequencyYAxisMeanFrequency: Average of Body Angular Velocity Frequency on the Y-Axis Mean Frequency
+BodyAngularVelocityFrequencyZAxisMeanFrequency: Average of Body Angular Velocity Frequency on the Z-Axis Mean Frequency
+BodyAccelerationFrequencyMagMean: Average of Body Acceleration Frequency Magnitude Mean
+BodyAccelerationFrequencyMagMeanFrequency: Average of Body Acceleration Frequency Magnitude Mean Frequency
+BodyFrequencyBodyAccJerkMagMean: Average of Body Frequency Body Accelerometer Jerk Magnitude Mean
+BodyFrequencyBodyAccJerkMagMeanFrequency: Average of Body Frequency Body Accelerometer Jerk Magnitude Mean Frequency
+BodyFrequencyBodyGyroMagMean: Average of Body Frequency Body Gyroscope Magnitude Mean
+BodyFrequencyBodyGyroMagMeanFrequency: Average of Body Frequency Body Gyroscope Magnitude Mean Frequency
+BodyFrequencyBodyGyroJerkMagMean: Average of Body Frequency Body Gyroscope Jerk Magnitude Mean
+BodyFrequencyBodyGyroJerkMagMeanFrequency: Average of Body Frequency Body Gyroscope Jerk Magnitude Mean Frequency
+BodyAccelerationTimeXAxisStandardDeviation: Average of Body Acceleration Time on the X-Axis Standard Deviation
+BodyAccelerationTimeYAxisStandardDeviation: Average of Body Acceleration Time on the Y-Axis Standard Deviation
+BodyAccelerationTimeZAxisStandardDeviation: Average of Body Acceleration Time on the Z-Axis Standard Deviation
+GravityAccelerationTimeXAxisStandardDeviation: Average of Gravity Acceleration Time on the X-Axis Standard Deviation
+GravityAccelerationTimeYAxisStandardDeviation: Average of Gravity Acceleration Time on the Y-Axis Standard Deviation
+GravityAccelerationTimeZAxisStandardDeviation: Average of Gravity Acceleration Time on the Z-Axis Standard Deviation
+BodyAccelerationTimeJerkXAxisStandardDeviation: Average of Body Acceleration Time Jerk on the X-Axis Standard Deviation
+BodyAccelerationTimeJerkYAxisStandardDeviation: Average of Body Acceleration Time Jerk on the Y-Axis Standard Deviation
+BodyAccelerationTimeJerkZAxisStandardDeviation: Average of Body Acceleration Time Jerk on the Z-Axis Standard Deviation
+BodyAngularVelocityTimeXAxisStandardDeviation: Average of Body Angular Velocity Time on the X-Axis Standard Deviation
+BodyAngularVelocityTimeYAxisStandardDeviation: Average of Body Angular Velocity Time on the Y-Axis Standard Deviation
+BodyAngularVelocityTimeZAxisStandardDeviation: Average of Body Angular Velocity Time on the Z-Axis Standard Deviation
+BodyAngularVelocityTimeJerkXAxisStandardDeviation: Average of Body Angular Velocity Time Jerk on the X-Axis Standard Deviation
+BodyAngularVelocityTimeJerkYAxisStandardDeviation: Average of Body Angular Velocity Time Jerk on the Y-Axis Standard Deviation
+BodyAngularVelocityTimeJerkZAxisStandardDeviation: Average of Body Angular Velocity Time Jerk on the Z-Axis Standard Deviation
+BodyAccelerationTimeMagStandardDeviation: Average of Body Acceleration Time Magnitude Standard Deviation
+GravityAccelerationTimeMagStandardDeviation: Average of Gravity Acceleration Time Magnitude Standard Deviation
+BodyAccelerationTimeJerkMagStandardDeviation: Average of Body Acceleration Time Jerk Magnitude Standard Deviation
+BodyAngularVelocityTimeMagStandardDeviation: Average of Body Angular Velocity Time Magnitude Standard Deviation
+BodyAngularVelocityTimeJerkMagStandardDeviation: Average of Body Angular Velocity Time Jerk Magnitude Standard Deviation
+BodyAccelerationFrequencyXAxisStandardDeviation: Average of Body Acceleration Frequency on the X-Axis Standard Deviation
+BodyAccelerationFrequencyYAxisStandardDeviation: Average of Body Acceleration Frequency on the Y-Axis Standard Deviation
+BodyAccelerationFrequencyZAxisStandardDeviation: Average of Body Acceleration Frequency on the Z-Axis Standard Deviation
+BodyAccelerationFrequencyJerkXAxisStandardDeviation: Average of Body Acceleration Frequency Jerk on the X-Axis Standard Deviation
+BodyAccelerationFrequencyJerkYAxisStandardDeviation: Average of Body Acceleration Frequency Jerk on the Y-Axis Standard Deviation
+BodyAccelerationFrequencyJerkZAxisStandardDeviation: Average of Body Acceleration Frequency Jerk on the Z-Axis Standard Deviation
+BodyAngularVelocityFrequencyXAxisStandardDeviation: Average of Body Angular Velocity Frequency on the X-Axis Standard Deviation
+BodyAngularVelocityFrequencyYAxisStandardDeviation: Average of Body Angular Velocity Frequency on the Y-Axis Standard Deviation
+BodyAngularVelocityFrequencyZAxisStandardDeviation: Average of Body Angular Velocity Frequency on the Z-Axis Standard Deviation
+BodyAccelerationFrequencyMagStandardDeviation: Average of Body Acceleration Frequency Magnitude Standard Deviation
+BodyFrequencyBodyAccJerkMagStandardDeviation: Average of Body Frequency Body Accelerometer Jerk Magnitude Standard Deviation
+BodyFrequencyBodyGyroMagStandardDeviation: Average of Body Frequency Body Gyroscope Magnitude Standard Deviation
+BodyFrequencyBodyGyroJerkMagStandardDeviation: Average of Body Frequency Body Gyroscope Jerk Magnitude Standard Deviation
